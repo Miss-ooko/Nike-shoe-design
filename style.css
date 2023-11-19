@@ -1,1 +1,99 @@
+.one{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    margin-top: -100px;
+    font-size: xx-large;
+}
+.two{
 
+    margin-left: 400px;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-size: xx-large;
+    word-spacing: 150px;
+    margin-top: 50px;
+
+     
+    
+}
+.three{
+    margin-left: 520px;
+    float: left;
+    border-radius: 30px;
+    margin-top: -100px;
+    margin-right: -100px;
+    
+    transform: scale(0.5);
+    transform: rotate(-45deg);
+    background-image: -webkit-radial-gradient( purple, red, yellow, lightgreen);
+    background-image: -webkit-radial-gradient( purple 5%, red 25%, yellow 25%, lightgreen 25%);
+    
+
+    
+    
+}
+.four{
+    margin-bottom: 50px;
+    margin-left: 600px;
+    margin-right: 50px;
+    margin-top: 100px;
+    font-size: xx-large;
+
+
+}
+.five{
+    margin-left: 120px;
+    margin-top: 40px;
+    margin-bottom: 200px;
+    
+
+    
+}
+.six{
+    margin-left: 1280px;
+    margin-top: -70px;
+    margin-right: 100px;
+}
+.seven{
+    text-align: center;
+    margin-top: -290px;
+    word-spacing: 2px;
+    font-size: xx-large;
+    border-top-style: solid;
+
+
+}
+.border{
+min-width: 800px;
+min-height: 800px;
+transform: scale(0.5);
+background-image: -webkit-radial-gradient(  purple, red, yellow, lightgreen);
+background-image: -webkit-radial-gradient(  purple 0%, red 40%, yellow 100%,
+ lightgreen 50%);
+
+}
+.eight{
+    border-style: ridge;
+    transform: scale(0.5);
+    background-color: white;
+    margin-left: -100px;
+    height: 1000px;
+    width: 1500px;
+
+}
+.logo{
+    margin-left: 100px;
+
+    
+}
+.arch{
+    margin-left: 100px;
+    margin-top: 300px;
+    margin-bottom: -100px;
+}
+.rightarch{
+    margin-left: 1250px ;
+    margin-top: -270px;
+}
